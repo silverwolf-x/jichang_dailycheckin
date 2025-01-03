@@ -1,4 +1,6 @@
 # ikuuu每日签到
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/silverwolf-x/jichang_dailycheckin/main.yml)
+
 
 这个脚本只适合这一个机场😥😥😥😥，当时只是自己拿来用，就写个这一个机场的。我又写了一个通用的（机场只要Powered by SSPANEL就可以）请移步<a href = 'https://github.com/bighammer-link/jichang_checkin'>此处</a>
 ## 推送
